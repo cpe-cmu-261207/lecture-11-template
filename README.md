@@ -1,4 +1,4 @@
-# lecture 11 coding template : React (state management)
+# lecture 11 coding template : React (store library)
 
 ก่อนเริ่มเขียนโปรมแกรม ให้น.ศ.รันคำสั่งนี้
 
